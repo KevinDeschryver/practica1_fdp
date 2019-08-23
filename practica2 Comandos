@@ -1,0 +1,141 @@
+Tailandia47:~ alumno$ mkdir Calculo_Geometria
+
+Tailandia47:~ alumno$ mkdir Algebra
+
+Tailandia47:~ alumno$ mkdir FISICA
+
+Tailandia47:~ alumno$ mkdir QUIMICA
+
+Tailandia47:~ alumno$ mkdir PROGRAMACION
+
+Tailandia47:~ alumno$ ls
+
+Algebra Desktop FISICA PROGRAMACION QUIMICA practica2
+
+Calculo_Geometria Downloads Library Pictures nuevoDir
+
+Tailandia47:~ alumno$ cd practica2/
+
+Tailandia47:practica2 alumno$ cd Calculo_Geometria/
+
+Tailandia47:Calculo_Geometria alumno$ touch Archivo.txt
+
+Tailandia47:Calculo_Geometria alumno$ echo "Kevin Eduardo Arrazola Deschryver" />> Archivo.txt
+
+Tailandia47:Calculo_Geometria alumno$ cat Archivo.txt
+
+Kevin Eduardo Arrazola Deschryver
+
+317272831 
+
+Kevin Eduardo Arrazola Deschryver /
+
+Tailandia47:Calculo_Geometria alumno$ cd practica2/
+
+-bash: cd: practica2/: No such file or directory
+
+Tailandia47:Calculo_Geometria alumno$ cd
+
+Tailandia47:~ alumno$ cd practica2/
+
+Tailandia47:practica2 alumno$ cd A
+
+Algebra/     Archivo.txt  
+
+Tailandia47:practica2 alumno$ mkdir Algebra
+
+mkdir: Algebra: File exists
+
+Tailandia47:practica2 alumno$ cd Algebra
+
+Tailandia47:Algebra alumno$ touch Archivo.txt
+
+Tailandia47:Algebra alumno$ echo" Kevin EduardoaArrazola Deschryver" />> Archivo.txt
+
+-bash: echo Kevin EduardoaArrazola Deschryver: command not found
+
+Tailandia47:Algebra alumno$ echo "Kevin Eduardo Arrazla Deschryver" />> Archivo.txt
+
+Tailandia47:Algebra alumno$ cat Archivo.txt
+
+Kevin Eduardo Arrazla Deschryver /
+
+Tailandia47:Algebra alumno$ echo "317272831" />> Archivo.txt
+
+Tailandia47:Algebra alumno$ cd
+
+Tailandia47:~ alumno$ cd practica2
+
+Tailandia47:practica2 alumno$ cd Fisica
+
+Tailandia47:Fisica alumno$ touch Archivo.txt
+
+Tailandia47:Fisica alumno$ echo" Kevin Eduardo Arrazola Deschryver " />> Archivo.txt
+
+-bash: echo Kevin Eduardo Arrazola Deschryver : command not found
+
+Tailandia47:Fisica alumno$ echo " 317272831" / >>Archivo.txt
+
+Tailandia47:Fisica alumno$ cat Archivo.txt
+
+ 317272831 /
+
+Tailandia47:Fisica alumno$ echo"Kevin Eduardo Arrazola  Deschryver" />> Archivo.txt
+
+-bash: echoKevin Eduardo Arrazola  Deschryver: command not found
+
+Tailandia47:Fisica alumno$ cat Archivo.txt
+
+ 317272831 /
+
+Tailandia47:Fisica alumno$  echo " Kevin Eduardo Arrazola Deschryver " />> Archivo.txt
+
+Tailandia47:Fisica alumno$ cat Archivo.txt  
+
+ 317272831 /
+
+ Kevin Eduardo Arrazola Deschryver  /
+
+Tailandia47:Fisica alumno$ cd
+
+Tailandia47:~ alumno$ cd practica2
+
+Tailandia47:practica2 alumno$ cd QUIMICA
+
+Tailandia47:QUIMICA alumno$ touch archivo.txt
+
+Tailandia47:QUIMICA alumno$ echo "Kevin Eduardo Arrazola Deschryver" />> archivo.txt
+
+Tailandia47:QUIMICA alumno$ cat Archivo.txt
+
+Kevin Eduardo Arrazola Deschryver /
+
+Tailandia47:QUIMICA alumno$ echo "317272831" />> archivo.txt
+
+Tailandia47:QUIMICA alumno$ cat archivo.txt
+
+Kevin Eduardo Arrazola Deschryver /
+
+317272831 /
+
+Tailandia47:QUIMICA alumno$ cd
+
+Tailandia47:~ alumno$ cd PROGRAMACION
+
+Tailandia47:PROGRAMACION alumno$ touch archhivo.txt
+
+Tailandia47:PROGRAMACION alumno$ echo " Kevin Eduardo Arrazola Deschryver " />> archivo.txt
+
+Tailandia47:PROGRAMACION alumno$ cat archivo.txt
+
+ Kevin Eduardo Arrazola Deschryver  /
+
+Tailandia47:PROGRAMACION alumno$ echo " 317272831" />> archivo.txt
+
+Tailandia47:PROGRAMACION alumno$ cat archivo.txt
+
+ Kevin Eduardo Arrazola Deschryver  /
+
+ 317272831 /
+
+Tailandia47:PROGRAMACION alumno$ 
