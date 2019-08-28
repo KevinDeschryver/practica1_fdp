@@ -1,0 +1,47 @@
+1._DADO UN PRECIO, CALCULAR SU DESCUENTO CONSIDERANDO QUE AI EL PRECIO ES >100  EL DESCUENTO SERA DE 10% , DE OTRO MODO DESCONTAR SOLO N 2%
+
+ PROBLEMA: CALCULAR UN DESCUENTO DE UN PRECIO 
+ENTRADA : PRECIO 
+SALIDA : PRECIO CON DESCUENTO 
+
+ALGORITMO :
+INICIO 
+1. Solicitar precio 
+2.   si el precio si es mayor a 100 ( $>100) realizar lo siguiente :
+   2.1  Si es el precio si es mayor a 100  aplicar descuento y finalizar compra 
+  3  SI el  precio es menor a 100 ($<100) realizar lo siguiente:
+    3.1 aplicar descuento de 2% y finalizar compra 
+FIN
+
+2._UN ALGORITMO QUE LEA 2 NUMEROS Y CALCULE SU SUMA , SU RESTA Y SU MULTIPLICACION , Y División 
+
+Problema: Leer 2 números y calcular su suma , resta , multiplicación y division
+ENTRADA:  2 números 
+SALIDA: Resultados de las operaciones de los 2 números leidos.
+
+ALGORITMO: 
+INICIO 
+1._Leer 2 números ( n1 & n2 ) 
+2._ Introducir procedimiento de operaciones ( SUMA, RESTA , MULTIPLICACION Y DIVISION )
+3._  Imprimir resultados de cada una de la operación  de los 2 números leídos.
+FIN 
+
+3:_LEER 3 NUMEROS QUE VAN A DENOTAR  UNA FECHA  EN  DIA , MES Y AÑO   Y VERIFICAR SI ES UNA FECHA VALIDA 
+
+PROBLEMA:  LEER 3 NUMEROS Y DENOTAR UNA FECHA VALIDA 
+ENTRADA : 3 NUMEROS 
+SALIDA : UNA FECHA EN DIA/MES/AÑO  VALIDA 
+
+ALGORITMO:
+INICIO 
+1._ LEER 3 NUMEROS 
+2._ SI  Num1 no rebasa  al numero 31 realizar lo siguiente :
+ 2.1  validarlo como fecha en “días”   
+2.1.1 si se introduce un número que si rebasa al 31 volver al punto 1
+3._ Si Num2 no rebasa al numero 12 realizar lo siguiente:
+3.1 validarlo como fecha en “meses” 
+3.1.1 Si num2 rebasa  el numero 12 volver al punto 1 
+4._ Num3 no tiene restricciones y se valida como año 
+5._ IMPRIMIR FECHA EN DIA/MES/AÑO VALIDADA 
+FIN
+ 
